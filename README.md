@@ -1,7 +1,7 @@
 # Misty-Water-Effect
 
 What is this project about?:
-  This project is about making the misty water effect in a picture. 
+**This project is about making the misty water effect in a picture. 
 
 3 ways you can achieve the misty water effect:
   First, input multiple pictures. Then make a new blank image.
