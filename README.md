@@ -1,6 +1,8 @@
 
 # Misty Water Effect
 
+Project: https://github.com/SamuelLin111/Earthquakes
+
 1. What is this project about?:
   - This project is about creating the misty water effect in a picture. 
 2.  Three ways you can achieve the misty water effect:
