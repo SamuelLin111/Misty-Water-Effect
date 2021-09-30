@@ -4,7 +4,7 @@
 Project: https://github.com/SamuelLin111/Earthquakes
 
 1. What is this project about?:
-  - This project is about creating the misty water effect in a picture. 
+  * This project is about creating the misty water effect in a picture. 
 2.  Three ways you can achieve the misty water effect:
   - Way 1: Average:
     - Make each pixel in the blank image the average of all the same pixels in each imputed pictures.
