@@ -1,6 +1,7 @@
 
 # Misty Water Effect
 
+![Misty water effect contrast](./Misty-Water-Effect Example 2.png)
 Project: https://github.com/SamuelLin111/Earthquakes
 
 1. What is this project about?:
