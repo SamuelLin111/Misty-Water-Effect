@@ -19,4 +19,4 @@ Project: https://github.com/SamuelLin111/Earthquakes
     - The misty water effect does not affect static objects. This is because you are basically finding the average, min, and max of the same pixel. Therefore, the new pixel would be very close to the original pictures.
     - Example: https://github.com/SamuelLin111/Misty-Water-Effect/blob/main/Misty-Water-Effect%20Example%202.png
   
-
+![Misty water effect contrast](./Misty-Water-Effect Example 1.png)
