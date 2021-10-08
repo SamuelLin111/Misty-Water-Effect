@@ -6,7 +6,7 @@ Project: https://github.com/SamuelLin111/Misty-Water-Effect
 
 1. What is this project about?:
     - This project is about creating the misty water effect in a picture. 
-2.  Three ways you can achieve the misty water effect:
+2.  First, input a burst of photos. Next, there are three ways you can achieve the misty water effect:
     - Way 1: Average:
       - Make each pixel in the blank image the average of all the same pixels in each imputed pictures.
     - Way 2: Find the biggest value:
