@@ -18,6 +18,6 @@ Project: https://github.com/SamuelLin111/Misty-Water-Effect
     - If there are more images, the water would look more filled in and even. This is especially apparent in waterfalls. 
 4. Does the misty water effect also alter static objects such as trees and cliffs in the background? Why or why not?:
     - The misty water effect does not affect static objects because the burst is taken over a short span of time. Only fast motions like the water would be captured in the burst. Object that remain static during the burst will not be affected.
-![Misty water effect contrast](Misty-Water-Effect-Example-3.png)
 Note: The railings
+![Misty water effect contrast](Misty-Water-Effect-Example-3.png)
   
