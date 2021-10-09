@@ -2,7 +2,6 @@
 # Misty Water Effect
 
 ![Misty water effect contrast](Misty-Water-Effect-Example-3.png)
-Project: https://github.com/SamuelLin111/Misty-Water-Effect
 
 1. What is this project about?:
     - This project is about creating the misty water effect in a picture. 
